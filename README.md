@@ -7,4 +7,4 @@ Die Datei "Auswertung" enthält alle Rohdaten, die erfasst wurden.
 
 In der Datei "functions" (rStudio) sind die Funktionen enthalten, die selber geschrieben wurden, um die Graphiken für die Maturitätsarbeit zu erstellen.
 
-Ausserdem ist auch meine Maturitätsarbeit selber als pdf hier erhältlich.
+Ausserdem ist auch meine Maturitätsarbeit selber als pdf erhältlich.
