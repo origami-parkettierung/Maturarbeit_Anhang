@@ -1,10 +1,12 @@
-# Maturarbeit_Anhang
-Dies ist der digitale Anhang meiner Maturitätsarbeit: Mathematische Betrachtungen der Symmetrien von Origami-Parkettierungen.
+# Mathematische Betrachtung der Symmetrien von Origami-Parkettierungen
+Maturitätsarbeit von Anouk Rehrauer, Kantonsschule Zürcher Oberland (KZO) 2021
 
-Im Ordner "twist-tessellations" sind die Parkettierungen und Origami-Parkettierungen zu finden, deren Symmetriegruppen bestimmt wurden.
+Origami-Parkettierungen sind eine spezifische Art von Origami, die sich regelmässig in der Ebene ausbreiten. Origami-Parkettierungen sind unglaublich vielfältig und ästhetisch, besonders wenn sie Symmetrien enthalten. In dieser Maturitätsarbeit werden Origami-Parkettierungen betrachtet, die aus sogenannten Twists aufgebaut sind. Ein Twist ist ein Grundbaustein, mit dem aus einer regelmässigen Unterteilung der Ebene, genannt Parkettierung, eine Origami-Parkettierung kreiert werden kann.
+Diese Arbeit zeigt auf, wie die Symmetrien einer Twist-Parkettierung mit der zugrundeliegenden Parkettierung zusammenhängen.
 
-Die Datei "Auswertung" enthält alle Rohdaten, die erfasst wurden.
+Folgende Dokumente sind hier verfügbar: 
 
-In der Datei "functions" (rStudio) sind die Funktionen enthalten, die selber geschrieben wurden, um die Graphiken für die Maturitätsarbeit zu erstellen.
-
-Ausserdem ist auch meine Maturitätsarbeit selber als pdf erhältlich.
+* [Maturitätsarbeit als PDF](Maturitätsarbeit.pdf)
+* [Ordner twist-tessellations](../../tree/main/twist-tesselations) : Parkettierungen und Origami-Parkettierungen, deren Symmetriegruppen bestimmt wurden
+* [Auswertung (Excel file)](Auswertung.xlsx) : erfasste Rohdaten
+* [Funktionen in RStudio](R_Funktionen/functions.R) : selbstgeschriebene Funktionen für die Graphiken der Maturitätsarbeit
